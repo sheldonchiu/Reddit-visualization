@@ -1,6 +1,7 @@
 # Reddit Visualization
 Data extraction used BERT
-  Observable notebook:
+
+Observable notebook:
 > https://observablehq.com/@sheldonchiu/comp-4462-sankey
 
 <p float="left", padding='10'>
